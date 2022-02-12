@@ -1,2 +1,2 @@
-# OscarIslasH-KatasOscarIslasHLaunchX
+# KatasOscarIslasHLaunchX
 Entrega De Katas: Curso Python LaunchX
